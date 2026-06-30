@@ -1,6 +1,6 @@
 job_id,title,company,location,salary,posted_date
-1,Data Engineer,Google,Chicago,120000,2026-06-01
-2,Analytics Engineer,Amazon,Austin,115000,2026-06-03
-3,Data Analyst,Meta,New York,95000,2026-06-02
-4,Data Engineer,Netflix,Remote,130000,2026-06-04
-5,BI Engineer,Microsoft,Seattle,110000,2026-06-05
+1,Data Engineer,Google,Chicago,120000.0,2026-06-01
+2,Analytics Engineer,Amazon,Austin,115000.0,2026-06-03
+3,Data Analyst,Meta,New York,95000.0,2026-06-02
+4,Data Engineer,Netflix,Remote,130000.0,2026-06-04
+6,Data Engineer,IBM,Chicago,125000.0,2026-06-06
